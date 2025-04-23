@@ -5,6 +5,7 @@ import pandas as pd
 
 from mplsoccer import VerticalPitch
 
+
 st.title("Euro 2024 Shot Map")
 st.subheader("Filter to any team/player to see all of theri shots take")
 
